@@ -1,4 +1,5 @@
 *CowBas License*
+
 A licença CowBas é uma licença de documentos exclusiva que visa proteger os direitos de uso e distribuição do software. Esta licença impõe restrições específicas para garantir que o software permaneça inalterado e não seja redistribuído sem a permissão do detentor dos direitos autorais. Abaixo estão os principais termos e condições da licença CowBas:
 
 *Proibição de Modificação*
